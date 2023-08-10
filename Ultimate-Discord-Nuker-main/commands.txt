@@ -1,0 +1,15 @@
+PUT YOUR BOT'S TOKEN IN "bot_token.txt"
+
+      BOT COMMANDS. YOU MUST HAVE PERMISSIONS TO ADD THE BOT
+======================================================================== 
+
+!nuke --> Deletes all rooms after you type this command in chat.
+
+!spam "Number Of Channels" "Name Of Channels" --> Spam the creation of channels (Do Not add any quotes thats just for captioning.)
+
+!alert --> Spams @everyone in all channels
+
+!ban "@person" --> Bans a person for specified reason. (Do Not add any quotes thats just for captioning. - The "Ban Member's" permission is required to run this command.)
+
+!kick "@Person" --> Kicks a person for a specified reason. (Do Not add any quotes thats just for captioning. - The "Kick Members" permission is required to run this command.)
+
